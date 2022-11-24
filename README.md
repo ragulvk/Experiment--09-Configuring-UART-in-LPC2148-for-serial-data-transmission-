@@ -1,7 +1,7 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	Easwar.J
-Roll no : 212221230024
+Name :	Ragul VK
+Roll no : 212221240043
 Date of experiment : 24-11-22
 
 Date: 24-11-22
